@@ -1,0 +1,5 @@
+data:
+  env: chat-cloud-base-config-server-prod
+  user:
+    username: username-chat-cloud-base-config-server-prod
+    password: password-chat-cloud-base-config-server-prod
