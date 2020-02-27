@@ -1,0 +1,5 @@
+data:
+  env: chat-cloud-base-config-server-dev
+  user:
+    username: username-chat-cloud-base-config-server-dev
+    password: password-chat-cloud-base-config-server-dev
