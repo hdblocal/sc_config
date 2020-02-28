@@ -1,5 +1,5 @@
 data:
-  env: chat-cloud-provider-user-dev-007
+  env: chat-cloud-provider-user-dev-008
   user:
-    username: username-dev-007
-    password: password-dev-007
+    username: username-dev-008
+    password: password-dev-008
