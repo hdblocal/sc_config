@@ -1,0 +1,5 @@
+data:
+  env: chat-cloud-base-service-eureka-prod
+  user:
+    username: username-chat-cloud-base-service-eureka-prod
+    password: password-chat-cloud-base-service-eureka-prod
