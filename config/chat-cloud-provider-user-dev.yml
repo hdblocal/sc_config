@@ -1,6 +1,5 @@
 data:
   env: {cipher}98b2a7579c8d1e5618ca491739cda9bd11f9f5d72226c09f80ac79cc253a061d
-  # chat-cloud-provider-user-dev-015
   user:
     username: {cipher}98b2a7579c8d1e5618ca491739cda9bd11f9f5d72226c09f80ac79cc253a061d
     password: {cipher}98b2a7579c8d1e5618ca491739cda9bd11f9f5d72226c09f80ac79cc253a061d
