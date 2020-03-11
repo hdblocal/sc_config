@@ -1,5 +1,5 @@
 data:
   env: dev
   user:
-    username: aaa111
-    password: bbb222
+    username: ttt
+    password: ggg
