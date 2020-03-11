@@ -1,7 +1,7 @@
 data:
   env: chat-cloud-base-config-server-dev1111
   user:
-    username: username-chat-cloud-base-config-server-dev333
-    password: password-chat-cloud-base-config-server-dev333
+    username: aaa
+    password: bbb
   service:
     ids: chat-cloud-provider-user;chat-cloud-base-config-server1333
